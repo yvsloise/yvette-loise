@@ -355,10 +355,10 @@ export default function HomePage() {
           >
             {/* First set of images */}
             {[
-              { name: 'ABOUT.svg', title: 'About Me' },
+              // { name: 'ABOUT.svg', title: 'About Me' },
               { name: 'COVERS.svg', title: 'Cover Designs' },
-              { name: 'EXPERIENCE.svg', title: 'Experience' },
-              { name: 'GRAPHIC SKILLS.svg', title: 'Graphic Skills' },
+              // { name: 'EXPERIENCE.svg', title: 'Experience' },
+              // { name: 'GRAPHIC SKILLS.svg', title: 'Graphic Skills' },
               { name: 'LATEST ENDEAVOUR.svg', title: 'Latest Projects' },
               { name: 'LIGHTROOM AND PS SAMPLES.svg', title: 'Photo Editing' },
               { name: 'MORE SAMPLES.svg', title: 'More Samples' },
