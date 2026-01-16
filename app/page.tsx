@@ -62,7 +62,7 @@ export default function HomePage() {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-[#F9F8F6] to-white">
+    <div className="font-montserrat min-h-screen bg-gradient-to-b from-[#F9F8F6] to-white">
       {/* Hero Section */}
       <section className="min-h-screen flex flex-col justify-center items-center px-6 relative overflow-hidden">
         {/* Background Elements */}
