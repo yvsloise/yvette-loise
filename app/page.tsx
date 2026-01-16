@@ -92,7 +92,7 @@ export default function HomePage() {
             variants={fadeInUp}
             className="text-xl md:text-2xl text-slate-500 font-light mb-8"
           >
-            Quality Analyst • Sales Professional • Customer Experience Expert
+            Quality Analyst • Graphic Designer
           </motion.p>
 
           <motion.div
