@@ -158,8 +158,8 @@ export default function HomePage() {
           </motion.h2>
           <motion.p variants={fadeInUp} className="text-lg md:text-xl text-slate-600 leading-relaxed max-w-3xl">
             Results-driven professional with <span className="text-[#8CA9FF] font-semibold">5+ years of experience</span> supporting
-            global accounts in customer service, sales negotiation, and quality analysis. Adept at managing data entry with precision,
-            conducting effective email outreach, and negotiating client solutions that drive retention. Recognized for
+            global accounts in quality analysis, sales negotiation, and client service. Adept at managing data with precision,
+           and negotiating client solutions that drive retention. Recognized for
             <span className="text-black font-medium"> accuracy, professionalism,</span> and the ability to exceed performance
             targets in high-pressure environments.
           </motion.p>
